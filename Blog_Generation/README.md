@@ -34,9 +34,8 @@ It focuses on semantic understanding, contextual relevance, and fast inference u
 ---
 
 ## 🚀 Getting Started (Local Setup)
-
-### 1️⃣ Clone the Repository
 ```bash
+1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/ML-and-AI.git
 cd ML-and-AI/Blog_Generation
 
