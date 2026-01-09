@@ -58,14 +58,14 @@ http://localhost:8501
 ⸻
 
 📂 Project Structure
-
+```
 Document_Summarization/
 │
 ├── summarization.ipynb   Jupyter notebook containing summarization logic
 ├── requirements.txt      Python dependencies
 ├── data/                 Sample documents (optional)
 └── README.md             Project documentation
-
+```
 ⸻
 
 ☁️ Deployment
